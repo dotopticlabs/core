@@ -1,4 +1,4 @@
-# Welcome to the DECO Stack
+# Welcome to the DOCHE/DOCSE Stack
 The DOCHE/DOCSE Stack is a powerful open-source observability platform designed to revolutionize the way you manage and configure your observability data. Comprising four essential components - DotOptic, OpenTelemetry, Cassandra, Hadoop/S3, and ElasticSearch - this stack empowers users to seamlessly orchestrate and centralize their observability configurations.
 
 Metrics – “Is there a problem?”
